@@ -46,7 +46,6 @@
     "object-assign": "^4.0.1"
   },
   "devDependencies": {
-    "nodejieba": "^2.2.1",
     "benchmark": "~1.0.0",
     "eslint": "~0.24.0",
     "expect.js": "~0.3.1",
